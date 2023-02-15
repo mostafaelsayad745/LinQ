@@ -1,0 +1,18 @@
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\bin\Debug\net6.0\Join Operations.exe
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\bin\Debug\net6.0\Join Operations.deps.json
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\bin\Debug\net6.0\Join Operations.runtimeconfig.json
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\bin\Debug\net6.0\Join Operations.dll
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\bin\Debug\net6.0\Join Operations.pdb
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\bin\Debug\net6.0\LINQTut09.Shared.dll
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\bin\Debug\net6.0\LINQTut09.Shared.pdb
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\obj\Debug\net6.0\Join Operations.csproj.AssemblyReference.cache
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\obj\Debug\net6.0\Join Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\obj\Debug\net6.0\Join Operations.AssemblyInfoInputs.cache
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\obj\Debug\net6.0\Join Operations.AssemblyInfo.cs
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\obj\Debug\net6.0\Join Operations.csproj.CoreCompileInputs.cache
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\obj\Debug\net6.0\Join Operations.csproj.CopyComplete
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\obj\Debug\net6.0\Join Operations.dll
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\obj\Debug\net6.0\refint\Join Operations.dll
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\obj\Debug\net6.0\Join Operations.pdb
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\obj\Debug\net6.0\Join Operations.genruntimeconfig.cache
+D:\c#\C# with Essam\LinQ\Join Operations\Join Operations\Join Operations\obj\Debug\net6.0\ref\Join Operations.dll

@@ -1,0 +1,14 @@
+D:\c#\C# with Essam\LinQ\Pure Vs. Impure Function\Pure Vs. Impure Function\bin\Debug\netcoreapp3.1\Pure Vs. Impure Function.exe
+D:\c#\C# with Essam\LinQ\Pure Vs. Impure Function\Pure Vs. Impure Function\bin\Debug\netcoreapp3.1\Pure Vs. Impure Function.deps.json
+D:\c#\C# with Essam\LinQ\Pure Vs. Impure Function\Pure Vs. Impure Function\bin\Debug\netcoreapp3.1\Pure Vs. Impure Function.runtimeconfig.json
+D:\c#\C# with Essam\LinQ\Pure Vs. Impure Function\Pure Vs. Impure Function\bin\Debug\netcoreapp3.1\Pure Vs. Impure Function.runtimeconfig.dev.json
+D:\c#\C# with Essam\LinQ\Pure Vs. Impure Function\Pure Vs. Impure Function\bin\Debug\netcoreapp3.1\Pure Vs. Impure Function.dll
+D:\c#\C# with Essam\LinQ\Pure Vs. Impure Function\Pure Vs. Impure Function\bin\Debug\netcoreapp3.1\Pure Vs. Impure Function.pdb
+D:\c#\C# with Essam\LinQ\Pure Vs. Impure Function\Pure Vs. Impure Function\obj\Debug\netcoreapp3.1\Pure Vs. Impure Function.csproj.AssemblyReference.cache
+D:\c#\C# with Essam\LinQ\Pure Vs. Impure Function\Pure Vs. Impure Function\obj\Debug\netcoreapp3.1\Pure Vs. Impure Function.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\C# with Essam\LinQ\Pure Vs. Impure Function\Pure Vs. Impure Function\obj\Debug\netcoreapp3.1\Pure Vs. Impure Function.AssemblyInfoInputs.cache
+D:\c#\C# with Essam\LinQ\Pure Vs. Impure Function\Pure Vs. Impure Function\obj\Debug\netcoreapp3.1\Pure Vs. Impure Function.AssemblyInfo.cs
+D:\c#\C# with Essam\LinQ\Pure Vs. Impure Function\Pure Vs. Impure Function\obj\Debug\netcoreapp3.1\Pure Vs. Impure Function.csproj.CoreCompileInputs.cache
+D:\c#\C# with Essam\LinQ\Pure Vs. Impure Function\Pure Vs. Impure Function\obj\Debug\netcoreapp3.1\Pure Vs. Impure Function.dll
+D:\c#\C# with Essam\LinQ\Pure Vs. Impure Function\Pure Vs. Impure Function\obj\Debug\netcoreapp3.1\Pure Vs. Impure Function.pdb
+D:\c#\C# with Essam\LinQ\Pure Vs. Impure Function\Pure Vs. Impure Function\obj\Debug\netcoreapp3.1\Pure Vs. Impure Function.genruntimeconfig.cache

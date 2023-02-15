@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Grouping Data/1.0.0": {
+        "dependencies": {
+          "LINQTut08.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Grouping Data.dll": {}
+        }
+      },
+      "LINQTut08.Shared/1.0.0": {
+        "runtime": {
+          "LINQTut08.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grouping Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LINQTut08.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

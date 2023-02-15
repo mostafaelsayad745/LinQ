@@ -1,0 +1,5 @@
+D:\c#\C# with Essam\LinQ\IEnumerable Vs. IQueryable_17\IEnumerable Vs. IQueryable\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\c#\C# with Essam\LinQ\IEnumerable Vs. IQueryable_17\IEnumerable Vs. IQueryable\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\C# with Essam\LinQ\IEnumerable Vs. IQueryable_17\IEnumerable Vs. IQueryable\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\c#\C# with Essam\LinQ\IEnumerable Vs. IQueryable_17\IEnumerable Vs. IQueryable\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\c#\C# with Essam\LinQ\IEnumerable Vs. IQueryable_17\IEnumerable Vs. IQueryable\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache

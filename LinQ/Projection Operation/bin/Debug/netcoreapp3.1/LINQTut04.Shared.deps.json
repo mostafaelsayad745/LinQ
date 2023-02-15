@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LINQTut04.Shared/1.0.0": {
+        "runtime": {
+          "LINQTut04.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQTut04.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\c#\C# with Essam\LinQ\Expression Trees_16\Expression Trees\Expression Trees_02\bin\Debug\net6.0\Expression Trees_02.exe
+D:\c#\C# with Essam\LinQ\Expression Trees_16\Expression Trees\Expression Trees_02\bin\Debug\net6.0\Expression Trees_02.deps.json
+D:\c#\C# with Essam\LinQ\Expression Trees_16\Expression Trees\Expression Trees_02\bin\Debug\net6.0\Expression Trees_02.runtimeconfig.json
+D:\c#\C# with Essam\LinQ\Expression Trees_16\Expression Trees\Expression Trees_02\bin\Debug\net6.0\Expression Trees_02.dll
+D:\c#\C# with Essam\LinQ\Expression Trees_16\Expression Trees\Expression Trees_02\bin\Debug\net6.0\Expression Trees_02.pdb
+D:\c#\C# with Essam\LinQ\Expression Trees_16\Expression Trees\Expression Trees_02\obj\Debug\net6.0\Expression Trees_02.csproj.AssemblyReference.cache
+D:\c#\C# with Essam\LinQ\Expression Trees_16\Expression Trees\Expression Trees_02\obj\Debug\net6.0\Expression Trees_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\C# with Essam\LinQ\Expression Trees_16\Expression Trees\Expression Trees_02\obj\Debug\net6.0\Expression Trees_02.AssemblyInfoInputs.cache
+D:\c#\C# with Essam\LinQ\Expression Trees_16\Expression Trees\Expression Trees_02\obj\Debug\net6.0\Expression Trees_02.AssemblyInfo.cs
+D:\c#\C# with Essam\LinQ\Expression Trees_16\Expression Trees\Expression Trees_02\obj\Debug\net6.0\Expression Trees_02.csproj.CoreCompileInputs.cache
+D:\c#\C# with Essam\LinQ\Expression Trees_16\Expression Trees\Expression Trees_02\obj\Debug\net6.0\Expression Trees_02.dll
+D:\c#\C# with Essam\LinQ\Expression Trees_16\Expression Trees\Expression Trees_02\obj\Debug\net6.0\refint\Expression Trees_02.dll
+D:\c#\C# with Essam\LinQ\Expression Trees_16\Expression Trees\Expression Trees_02\obj\Debug\net6.0\Expression Trees_02.pdb
+D:\c#\C# with Essam\LinQ\Expression Trees_16\Expression Trees\Expression Trees_02\obj\Debug\net6.0\Expression Trees_02.genruntimeconfig.cache
+D:\c#\C# with Essam\LinQ\Expression Trees_16\Expression Trees\Expression Trees_02\obj\Debug\net6.0\ref\Expression Trees_02.dll

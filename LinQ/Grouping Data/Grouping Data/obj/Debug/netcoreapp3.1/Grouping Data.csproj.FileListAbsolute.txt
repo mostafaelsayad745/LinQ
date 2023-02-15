@@ -1,0 +1,21 @@
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\obj\Debug\netcoreapp3.1\Grouping Data.csproj.AssemblyReference.cache
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\obj\Debug\netcoreapp3.1\Grouping Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\obj\Debug\netcoreapp3.1\Grouping Data.AssemblyInfoInputs.cache
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\obj\Debug\netcoreapp3.1\Grouping Data.AssemblyInfo.cs
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\obj\Debug\netcoreapp3.1\Grouping Data.csproj.CoreCompileInputs.cache
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\bin\Debug\netcoreapp3.1\LINQTut08.Shared.deps.json
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\bin\Debug\netcoreapp3.1\LINQTut08.Shared.runtimeconfig.json
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\bin\Debug\netcoreapp3.1\LINQTut08.Shared.runtimeconfig.dev.json
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\bin\Debug\netcoreapp3.1\LINQTut08.Shared.exe
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\bin\Debug\netcoreapp3.1\Grouping Data.exe
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\bin\Debug\netcoreapp3.1\Grouping Data.deps.json
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\bin\Debug\netcoreapp3.1\Grouping Data.runtimeconfig.json
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\bin\Debug\netcoreapp3.1\Grouping Data.runtimeconfig.dev.json
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\bin\Debug\netcoreapp3.1\Grouping Data.dll
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\bin\Debug\netcoreapp3.1\Grouping Data.pdb
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\bin\Debug\netcoreapp3.1\LINQTut08.Shared.dll
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\bin\Debug\netcoreapp3.1\LINQTut08.Shared.pdb
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\obj\Debug\netcoreapp3.1\Grouping Data.csproj.CopyComplete
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\obj\Debug\netcoreapp3.1\Grouping Data.dll
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\obj\Debug\netcoreapp3.1\Grouping Data.pdb
+D:\c#\C# with Essam\LinQ\Grouping Data\Grouping Data\obj\Debug\netcoreapp3.1\Grouping Data.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\c#\C# with Essam\LinQ\Data Partitioning\Data Partitioning\bin\Debug\netcoreapp3.1\Data Partitioning.exe
+D:\c#\C# with Essam\LinQ\Data Partitioning\Data Partitioning\bin\Debug\netcoreapp3.1\Data Partitioning.deps.json
+D:\c#\C# with Essam\LinQ\Data Partitioning\Data Partitioning\bin\Debug\netcoreapp3.1\Data Partitioning.runtimeconfig.json
+D:\c#\C# with Essam\LinQ\Data Partitioning\Data Partitioning\bin\Debug\netcoreapp3.1\Data Partitioning.runtimeconfig.dev.json
+D:\c#\C# with Essam\LinQ\Data Partitioning\Data Partitioning\bin\Debug\netcoreapp3.1\Data Partitioning.dll
+D:\c#\C# with Essam\LinQ\Data Partitioning\Data Partitioning\bin\Debug\netcoreapp3.1\Data Partitioning.pdb
+D:\c#\C# with Essam\LinQ\Data Partitioning\Data Partitioning\obj\Debug\netcoreapp3.1\Data Partitioning.csproj.AssemblyReference.cache
+D:\c#\C# with Essam\LinQ\Data Partitioning\Data Partitioning\obj\Debug\netcoreapp3.1\Data Partitioning.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\C# with Essam\LinQ\Data Partitioning\Data Partitioning\obj\Debug\netcoreapp3.1\Data Partitioning.AssemblyInfoInputs.cache
+D:\c#\C# with Essam\LinQ\Data Partitioning\Data Partitioning\obj\Debug\netcoreapp3.1\Data Partitioning.AssemblyInfo.cs
+D:\c#\C# with Essam\LinQ\Data Partitioning\Data Partitioning\obj\Debug\netcoreapp3.1\Data Partitioning.csproj.CoreCompileInputs.cache
+D:\c#\C# with Essam\LinQ\Data Partitioning\Data Partitioning\obj\Debug\netcoreapp3.1\Data Partitioning.dll
+D:\c#\C# with Essam\LinQ\Data Partitioning\Data Partitioning\obj\Debug\netcoreapp3.1\Data Partitioning.pdb
+D:\c#\C# with Essam\LinQ\Data Partitioning\Data Partitioning\obj\Debug\netcoreapp3.1\Data Partitioning.genruntimeconfig.cache

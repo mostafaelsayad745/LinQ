@@ -1,0 +1,18 @@
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\bin\Debug\net6.0\Aggregate Operations.exe
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\bin\Debug\net6.0\Aggregate Operations.deps.json
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\bin\Debug\net6.0\Aggregate Operations.runtimeconfig.json
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\bin\Debug\net6.0\Aggregate Operations.dll
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\bin\Debug\net6.0\Aggregate Operations.pdb
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\obj\Debug\net6.0\Aggregate Operations.csproj.AssemblyReference.cache
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\obj\Debug\net6.0\Aggregate Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\obj\Debug\net6.0\Aggregate Operations.AssemblyInfoInputs.cache
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\obj\Debug\net6.0\Aggregate Operations.AssemblyInfo.cs
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\obj\Debug\net6.0\Aggregate Operations.csproj.CoreCompileInputs.cache
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\obj\Debug\net6.0\Aggregate Operations.dll
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\obj\Debug\net6.0\refint\Aggregate Operations.dll
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\obj\Debug\net6.0\Aggregate Operations.pdb
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\obj\Debug\net6.0\Aggregate Operations.genruntimeconfig.cache
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\obj\Debug\net6.0\ref\Aggregate Operations.dll
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\bin\Debug\net6.0\Shared.dll
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\bin\Debug\net6.0\Shared.pdb
+D:\c#\C# with Essam\LinQ\Aggregate Operations_14\Aggregate Operations\Aggregate Operations\obj\Debug\net6.0\Aggregate Operations.csproj.CopyComplete

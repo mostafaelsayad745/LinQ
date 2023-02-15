@@ -1,0 +1,14 @@
+D:\c#\C# with Essam\LinQ\Functional Programming\Functional Programming\bin\Debug\netcoreapp3.1\Functional Programming.exe
+D:\c#\C# with Essam\LinQ\Functional Programming\Functional Programming\bin\Debug\netcoreapp3.1\Functional Programming.deps.json
+D:\c#\C# with Essam\LinQ\Functional Programming\Functional Programming\bin\Debug\netcoreapp3.1\Functional Programming.runtimeconfig.json
+D:\c#\C# with Essam\LinQ\Functional Programming\Functional Programming\bin\Debug\netcoreapp3.1\Functional Programming.runtimeconfig.dev.json
+D:\c#\C# with Essam\LinQ\Functional Programming\Functional Programming\bin\Debug\netcoreapp3.1\Functional Programming.dll
+D:\c#\C# with Essam\LinQ\Functional Programming\Functional Programming\bin\Debug\netcoreapp3.1\Functional Programming.pdb
+D:\c#\C# with Essam\LinQ\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\Functional Programming.csproj.AssemblyReference.cache
+D:\c#\C# with Essam\LinQ\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\Functional Programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\C# with Essam\LinQ\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\Functional Programming.AssemblyInfoInputs.cache
+D:\c#\C# with Essam\LinQ\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\Functional Programming.AssemblyInfo.cs
+D:\c#\C# with Essam\LinQ\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\Functional Programming.csproj.CoreCompileInputs.cache
+D:\c#\C# with Essam\LinQ\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\Functional Programming.dll
+D:\c#\C# with Essam\LinQ\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\Functional Programming.pdb
+D:\c#\C# with Essam\LinQ\Functional Programming\Functional Programming\obj\Debug\netcoreapp3.1\Functional Programming.genruntimeconfig.cache
